@@ -4,7 +4,7 @@ const myPromise = new Promise((resolve, reject) => {
             resolve('I have succeeded');
         }, 1000);
     } else {
-        reject('I have failed23, on littlefeature branch');
+        reject('I have failed');
     }
 });
 
